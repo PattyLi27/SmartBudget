@@ -1,0 +1,10 @@
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  line-height: 1.2;
+  margin-top: 0;
+}
+
+.display-4 {
+  font-size: clamp(2rem, 5vw, 4rem);
+  font-weight: 700;
+}

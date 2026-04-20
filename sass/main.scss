@@ -1,0 +1,18 @@
+// 1. Variables y mixins
+@import "abstracts/variables";
+
+// 2. Reset y base styles
+@import "base/reset";
+@import "base/typography";
+
+// 3. Layout styles (header, hero, footer, etc.)
+@import "layout/header";
+@import "layout/hero";
+@import "layout/features";
+@import "layout/about";
+@import "layout/contact";
+@import "layout/footer";
+
+// 4. Componentes específicos
+@import "components/buttons";
+@import "components/cards";
